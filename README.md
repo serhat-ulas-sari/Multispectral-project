@@ -55,8 +55,4 @@ I used a **Random Forest Classifier** to train the model in two stages:
 *(Place your 'Accuracy Comparison' bar chart here - e.g., images/accuracy_chart.png)*
 *Comparison of model accuracy across different feature sets.*
 
-## 💻 Installation & Usage
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/multispectral-classification.git](https://github.com/yourusername/multispectral-classification.git)
