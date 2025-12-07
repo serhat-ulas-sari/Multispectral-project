@@ -9,8 +9,8 @@ This project focuses on the classification of seedless grape varieties using **M
 
 Using the **Bueda Dataset**, I analyzed the impact of different vegetation indices (**NDVI, EVI, SAVI**) on model accuracy and demonstrated how feature stacking can significantly improve classification performance.
 
-## 📂 Dataset: Bueda
-* **Source:** Bueda Multispectral Dataset
+## 📂 Dataset: Multispectral Grape Images Dataset
+* **Source:** https://figshare.com/articles/dataset/Multispectral_grape_images_dataset/14679480
 * **Content:** 37-band images (12 Visible Light + 25 Infrared)
 * **Classes (5 Varieties):** Autumn Royal, Crimson Seedless, Itum4, Itum5, Itum9
 * **Image Dimensions:** Resized to 140x200 pixels
